@@ -1,1 +1,1 @@
-# lets_code_studies_Python
+# Let's Code Python studies
